@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Dumdum",
     "author": "tonton",
-    "version": (0, 1),
+    "version": (0, 2),
     "blender": (3, 00, 0),
     "location": "Top header",
     "description": "",
